@@ -1,8 +1,8 @@
 
 #### [首页](?file=home-首页)
 
-##### Characters_人物
-- [人物介绍](?file=001-Characters_人物/01-人物介绍 "人物介绍")
+##### 人物
+- [Characters](?file=001-人物/001-Characters "Characters")
 
 ##### Locations_地点
 
@@ -24,7 +24,8 @@
 
 ##### Items&#40;物品&#41;
 
-##### Stats&#40;属性&#41;
+##### 属性
+- [Stats](?file=012-属性/01-Stats "Stats")
 
 ##### Guides&#40;指南&#41;
 
