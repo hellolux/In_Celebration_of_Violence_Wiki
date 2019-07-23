@@ -42,6 +42,7 @@
 
 ##### Lore&#40;知识&#41;
 
-##### Controls&#40;控制&#41;
+##### 控制
+- [Controls](?file=015-控制/01-Controls "Controls")
 
 ##### News&#40;新闻&#41;
