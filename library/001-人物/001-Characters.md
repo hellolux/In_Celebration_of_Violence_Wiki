@@ -6,42 +6,4 @@
 
 ![所有人物](assetes/characters/characters_all.png)
 
-选择人物来进行游戏，大部分人物都需要指定的成就来进行解锁。  
-
-
-
-## Soldier
-
-## Priest
-
-## Hermit
-
-## Coward
-
-## Criminal
-
-## Misanthrope
-
-## Blacksmith
-
-## Merchant
-
-## Historian
-
-## Cultist
-
-## Veteran
-
-## Explorer
-
-## Tyrant
-
-## Chemist
-
-## Rock
-
-## Doctor
-
-## Martyr
-
-## Monster
+选择人物来进行游戏，大部分人物都需要指定的成就来进行解锁。
